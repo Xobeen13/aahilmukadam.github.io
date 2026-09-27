@@ -1,24 +1,16 @@
 window.PORTFOLIO_DATA = {
   projects: [
     {
-      title: "Compressed Air Optimization — TMMC West Weld",
+  title: "City of Temiskaming Shores Building Systems Retrofit",
+  year: "2026",
+  summary: "Supported the design and coordination of a municipal building retrofit involving air-source heat pumps, BAS integration, domestic hot water, hydronic system modifications, and recommissioning. Contributed to design reviews that evaluated heating and cooling configurations, equipment placement, control sequences, heat-metering requirements, buffer storage, filtration, and integration with existing building systems.",
+  tags: ["HVAC", "ASHP", "Building Automation", "Energy Engineering", "Retrofit Design", "Controls"],
+},
+     {
+      title: "Autonomous Line-Following & Object Pickup Robot",
       year: "2026",
-      summary: "Analyzed compressed-air performance and production constraints in a weld shop environment, supporting trials aimed at reducing header pressure while maintaining process quality.",
-      tags: ["Manufacturing", "Data", "Energy", "Process Improvement"],
-      link: ""
-    },
-    {
-      title: "geeWhiz Controls Lab",
-      year: "2026",
-      summary: "Implemented and tested control logic on Arduino-based hardware, including sensor scaling, proportional control experiments, overshoot analysis, and experimental estimation of system parameters.",
-      tags: ["Controls", "Arduino", "C++", "System ID"],
-      link: ""
-    },
-    {
-      title: "Predictive Elevator Scheduling",
-      year: "2026",
-      summary: "Concept for a local machine-learning scheduler for high-rise elevators using traffic patterns, load, and energy data to reduce wait time, unnecessary travel, and energy use.",
-      tags: ["Machine Learning", "Optimization", "Systems", "Python"],
+      summary: "Designed and programmed an autonomous mobile robot that followed a colored line, detected a marked pickup target, collected a LEGO figure, performed a 180° turn, and navigated to a green drop-off zone using computer vision and embedded control.",
+      tags: ["Robotics", "Python", "OpenCV", "Computer Vision", "I2C", "Embedded Systems"],
       link: ""
     },
     {
@@ -27,15 +19,51 @@ window.PORTFOLIO_DATA = {
       summary: "Building a player-game dataset to study short-term ankle-sprain risk using workload, schedule congestion, travel, altitude, age, position, injury history, and playstyle features.",
       tags: ["Python", "Data", "Statistics", "Sports Analytics"],
       link: ""
+    },
+    {
+      title: "Compressed Air Optimization — RAV 4 Spot Weld Issue",
+      year: "2025",
+      summary: "Analyzed compressed-air performance and production constraints in a weld shop environment, supporting trials aimed at reducing header pressure while maintaining process quality.",
+      tags: ["Manufacturing", "Data", "Energy", "Process Improvement"],
+      link: ""
     }
   ],
+
   experience: [
     {
-      role: "Engineering Co-op — West Weld",
+      role: "Energy Engineering Intern",
+      organization: "Johnson Controls",
+      period: "Apr 2026 – Aug 2026",
+      description: "Supported energy engineering and building performance initiatives involving commercial building systems, retrofit opportunities, and technical analysis to improve energy efficiency and system performance.",
+      tags: ["Energy Engineering", "Building Systems", "Retrofits", "HVAC"]
+    },
+    {
+      role: "Engineering Analyst – Energy & Manufacturing Systems",
       organization: "Toyota Motor Manufacturing Canada",
-      period: "2026",
-      description: "Worked on plant engineering and energy-related improvement initiatives, including compressed-air analysis, production trials, and cross-functional coordination in a live manufacturing environment.",
-      tags: ["Manufacturing", "Energy", "Data Analysis", "Continuous Improvement"]
+      period: "Sep 2025 – Dec 2025",
+      description: "Worked across Paint, Weld, Assembly, Plastics, Facilities, and Press to support energy and manufacturing improvement projects. Analyzed plant systems, coordinated with engineering and production teams, and contributed to compressed-air optimization and other initiatives in a live automotive manufacturing environment.",
+      tags: ["Manufacturing", "Energy", "Process Improvement", "Data Analysis", "Cross-Functional Engineering"]
+    },
+    {
+      role: "Automotive Technician",
+      organization: "Paradigm Auto Service",
+      period: "Jan 2025 – Apr 2025",
+      description: "Supported hands-on automotive diagnostics, maintenance, and repair activities while developing practical experience with vehicle systems, electrical components, and mechanical troubleshooting in a professional service environment.",
+      tags: ["Automotive", "Diagnostics", "Electrical Systems", "Mechanical Systems", "Hands-on"]
+    },
+    {
+      role: "Undergraduate Teaching Assistant",
+      organization: "University of Waterloo",
+      period: "Aug 2023 – Dec 2023",
+      description: "Supported undergraduate students by explaining technical concepts, troubleshooting coursework, and providing instructional support in a large university teaching environment.",
+      tags: ["Teaching", "Technical Communication", "Problem Solving", "Leadership"]
+    },
+    {
+      role: "Building Retrofit & CAD Engineering Assistant",
+      organization: "Building Innovation",
+      period: "Jan 2023 – Apr 2023",
+      description: "Created and updated CAD floorplans for building retrofit engineering projects, integrating new equipment into existing layouts and revising legacy drawings to support engineering design, installation, and project documentation.",
+      tags: ["AutoCAD", "CAD", "Building Systems", "Retrofit Engineering", "Technical Drawings"]
     },
     {
       role: "Embedded Software Developer",
@@ -43,31 +71,13 @@ window.PORTFOLIO_DATA = {
       period: "Student Design Team",
       description: "Contributed to embedded software for an off-road vehicle platform, with emphasis on reliable hardware-software interaction and testable vehicle systems.",
       tags: ["Embedded", "C/C++", "Vehicle Systems", "Testing"]
-    },
-    {
-      role: "Teaching Assistant",
-      organization: "University of Waterloo",
-      period: "Academic Experience",
-      description: "Supported a large undergraduate cohort, explaining technical concepts, helping troubleshoot student work, and communicating engineering ideas clearly.",
-      tags: ["Teaching", "Communication", "Technical Support"]
-    },
-    {
-      role: "Engineering / Design Experience",
-      organization: "Building Innovation + Automotive Projects",
-      period: "Previous Roles",
-      description: "Worked with AutoCAD MEP and practical automotive systems, including exposure to hybrid battery service and multidisciplinary technical problem solving.",
-      tags: ["AutoCAD", "MEP", "Automotive", "Hands-on"]
     }
   ],
-  skills: [
-    "C++", "Arduino", "Python", "MATLAB", "Controls", "Embedded Systems", "CAD",
-    "AutoCAD MEP", "Data Analysis", "System Identification", "Manufacturing", "Git",
-    "Machine Learning", "Technical Communication", "Problem Solving"
-  ],
+
   contacts: [
-    { label: "Email", url: "mailto:your-email@example.com" },
-    { label: "LinkedIn", url: "https://www.linkedin.com/" },
-    { label: "GitHub", url: "https://github.com/" },
+    { label: "Email", url: "mailto:aahil229@gmail.com" },
+    { label: "LinkedIn", url: "https://www.linkedin.com/in/aahil-mukadam/" },
+    { label: "GitHub", url: "https://github.com/Xobeen13" },
     { label: "Résumé", url: "#" }
   ]
 };
