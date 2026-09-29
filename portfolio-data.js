@@ -25,7 +25,7 @@ window.PORTFOLIO_DATA = {
       year: "2025",
       summary: "Analyzed compressed-air performance and production constraints in a weld shop environment, supporting trials aimed at reducing header pressure while maintaining process quality.",
       tags: ["Manufacturing", "Data", "Energy", "Process Improvement"],
-      link: ""
+      link: "https://github.com/Xobeen13/Fall-2025-TBP-Presentation"
     }
   ],
 
