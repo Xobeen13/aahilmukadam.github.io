@@ -64,13 +64,6 @@ window.PORTFOLIO_DATA = {
       period: "Jan 2023 – Apr 2023",
       description: "Created and updated CAD floorplans for building retrofit engineering projects, integrating new equipment into existing layouts and revising legacy drawings to support engineering design, installation, and project documentation.",
       tags: ["AutoCAD", "CAD", "Building Systems", "Retrofit Engineering", "Technical Drawings"]
-    },
-    {
-      role: "Embedded Software Developer",
-      organization: "University of Waterloo BAJA",
-      period: "Student Design Team",
-      description: "Contributed to embedded software for an off-road vehicle platform, with emphasis on reliable hardware-software interaction and testable vehicle systems.",
-      tags: ["Embedded", "C/C++", "Vehicle Systems", "Testing"]
     }
   ],
 
