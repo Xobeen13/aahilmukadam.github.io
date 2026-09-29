@@ -11,14 +11,14 @@ window.PORTFOLIO_DATA = {
       year: "2026",
       summary: "Designed and programmed an autonomous mobile robot that followed a colored line, detected a marked pickup target, collected a LEGO figure, performed a 180° turn, and navigated to a green drop-off zone using computer vision and embedded control.",
       tags: ["Robotics", "Python", "OpenCV", "Computer Vision", "I2C", "Embedded Systems"],
-      link: ""
+      link: "https://github.com/Xobeen13/autonomous-line-following-robot"
     },
     {
       title: "NBA Ankle Sprain Risk Model",
       year: "2026",
       summary: "Building a player-game dataset to study short-term ankle-sprain risk using workload, schedule congestion, travel, altitude, age, position, injury history, and playstyle features.",
       tags: ["Python", "Data", "Statistics", "Sports Analytics"],
-      link: ""
+      link: "https://github.com/Xobeen13/nba-ankle-sprain-risk"
     },
     {
       title: "Compressed Air Optimization — RAV 4 Spot Weld Issue",
