@@ -1,46 +1,9 @@
-# Aahil Mukadam Portfolio
+# Aahil Mukadam
 
-A retro sci-fi manga-inspired portfolio site built with plain HTML, CSS, and JavaScript.
+Mechatronics engineering student interested in systems integration, automation, building technologies, biomedical engineering, and data-driven problem solving.
 
-## Files
-- `index.html` — page structure
-- `styles.css` — all visual styling
-- `portfolio-data.js` — projects, experience, skills, and contact links
-- `script.js` — rendering, filtering, and content-manager logic
+My experience spans HVAC and building retrofit work, automotive manufacturing, CAD, embedded software, robotics, and hands-on engineering. I’m especially interested in understanding how mechanical systems, controls, software, and data interact within larger real-world systems.
 
-## Update your portfolio
-You have two ways to update content:
+Alongside engineering design, I also explore biomedical applications and sports/performance analytics across basketball, football, and competitive gaming.
 
-### 1. Edit the data file directly
-Open `portfolio-data.js` and add a new object to `projects` or `experience`.
-
-### 2. Use the built-in editor
-Open the website and click **Edit Portfolio**.
-- Add a project or experience.
-- Changes are previewed immediately and saved in your browser.
-- Go to **Export Data** and download the updated `portfolio-data.js`.
-- Replace the old file with the downloaded one before deploying again.
-
-## Customize contact links
-In `portfolio-data.js`, replace the placeholder email, LinkedIn, GitHub, and résumé URLs.
-
-## Run locally
-You can double-click `index.html`, but using a local server is better:
-
-```bash
-python3 -m http.server 8000
-```
-
-Then open `http://localhost:8000`.
-
-## Deploy for free
-Good options:
-- GitHub Pages
-- Netlify
-- Cloudflare Pages
-- Vercel
-
-Because this is a static site, no build step is required.
-
-## Art direction
-The visual system uses original retro manga/comic motifs: thick ink outlines, halftone textures, speed-line bursts, caption boxes, bold primary colors, and a custom robot illustration. It is inspired by mid-century Japanese sci-fi manga aesthetics without reproducing copyrighted Astro Boy artwork or panels.
+This portfolio highlights selected projects and experiences that reflect those interests.
